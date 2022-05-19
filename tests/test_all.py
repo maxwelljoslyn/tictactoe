@@ -1,4 +1,4 @@
-from tictac import Board
+from tictactoe import Board
 import textwrap
 import pytest
 
